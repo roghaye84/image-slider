@@ -6,9 +6,11 @@ The slider supports smooth horizontal scrolling with navigation dots for easy sw
 
 ---
 
-🌟 Live Demo
-👉 [View Live Demo]
-👉 (https://roghaye84.github.io/image-slider/)
+## 🌟 Live Demo
+👉 [View Live Demo](https://roghaye84.github.io/image-slider)  
+
+---
+
 
 
 ---
@@ -51,13 +53,4 @@ CSS3 (Scroll Snap, Flexbox, Filters)
 
 git clone https://roghaye84.github.io/image-slider/
 
-2. Open the project folder and run:
 
-
-
-open index.html
-
-
----
-
-✨ Design by Roghaye Mohammadi
