@@ -1,4 +1,4 @@
-##🎡 Fullscreen CSS Image Slider
+# 🎡 Fullscreen CSS Image Slider
 
 A beautiful fullscreen image slider with a blurred background, built entirely using HTML and CSS — no JavaScript required.
 The slider supports smooth horizontal scrolling with navigation dots for easy switching between images.
@@ -13,9 +13,7 @@ The slider supports smooth horizontal scrolling with navigation dots for easy sw
 
 
 
----
-
-##🛠 Technologies Used
+## 🛠 Technologies Used
 
 HTML5
 
@@ -25,7 +23,7 @@ CSS3 (Scroll Snap, Flexbox, Filters)
 
 ---
 
-##🔍 Features
+## 🔍 Features
 
 ✅ Fullscreen blurred background image
 ✅ Centered responsive slider (16:9 ratio)
@@ -37,7 +35,7 @@ CSS3 (Scroll Snap, Flexbox, Filters)
 
 ---
 
-##📷 Preview
+## 📷 Preview
 
 
 ![Slider Preview](https://github.com/roghaye84/image-slider/blob/main/assest/slider-image.jpeg)
@@ -45,7 +43,7 @@ CSS3 (Scroll Snap, Flexbox, Filters)
 
 ---
 
-##🚀 How to Use Locally
+## 🚀 How to Use Locally
 
 1. Clone the repository:
 
