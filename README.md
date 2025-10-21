@@ -26,11 +26,17 @@ CSS3 (Scroll Snap, Flexbox, Filters)
 ## 🔍 Features
 
 ✅ Fullscreen blurred background image
+
 ✅ Centered responsive slider (16:9 ratio)
+
 ✅ Smooth slide snapping without JavaScript
+
 ✅ Hidden scrollbar for clean UI
+
 ✅ Navigation dots (anchor-based)
+
 ✅ Footer credit fixed at bottom of the page
+
 
 
 ---
